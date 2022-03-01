@@ -1,7 +1,7 @@
 # Pyramid
 
-Draws a simple pyramid.
-Height is configurable to anything as well as the sequence of characters used.
+Draws a text character pyramid.
+Height is configurable as well as the sequence of characters used.
 The pyramid can be reversed.
 
 Example output:
