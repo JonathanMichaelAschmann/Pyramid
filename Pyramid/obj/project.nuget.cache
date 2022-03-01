@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GwRe5jIx2fJ7uN8JjpfJ2vNYL9COKGsWx1/5/q40NQixzWi94KgI5+D37aBu/bAXSHdrBMPNZAytsgaM4a40ag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JonathanA\\source\\repos\\Pyramid\\Pyramid\\Pyramid.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JonathanA\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
