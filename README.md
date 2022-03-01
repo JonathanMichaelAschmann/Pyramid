@@ -4,7 +4,7 @@ Draws a text character pyramid.
 Height is configurable as well as the sequence of characters used.
 The pyramid can be reversed.
 
-Example output:
+Example outputs:
 
     ***1***
     **222**
